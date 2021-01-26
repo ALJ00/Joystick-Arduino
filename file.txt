@@ -7,3 +7,5 @@ $ git push -u origin master
 $git add .
 $git add file.txt
 $git commit -m "some text"
+
+https://git-scm.com/book/es/v2/Fundamentos-de-Git-Guardando-cambios-en-el-Repositorio
